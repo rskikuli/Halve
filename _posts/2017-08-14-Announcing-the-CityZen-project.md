@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Halve Jekyll Theme"
-date:   2016-05-29
+title:  Announcing the CityZen project
+date:   2017-08-14
 excerpt: "Stylish, two-column Jekyll theme for your blog."
 tag:
-- jekyll 
-- halve
+- CityZen
+- english
 - blog
-- vangeltzo
-- theme
-- vangelis
 ---
 
 <a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  
