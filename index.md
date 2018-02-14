@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# rskikuli/ long story short
+# Long Story Short
 
 My name is Redon Skikuli and I'm currently based in 41°19′44″N 19°49′04″E.
 
