@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# Long Story Short
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+My name is Redon Skikuli and I'm currently based in 41°19′44″N 19°49′04″E. 
+I'm the co-founder of [Open Labs hackerspace](https://openlabs.cc) ( from 2012) and co-organiser of [Open Source Conference Albania](https://oscal.openlabs.cc), Wiki Weekend and CopyFest. 
+I'm co-developing CityZen (an OSM-based city navigation mobile app) & [Identihub](https://identihub.co/) (open source visual assets hosting) in collaboration with really talented people that trust in a decetralised future. 
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+I pay my bills as a visual communication & free open source solutions consultant at [Ura Design](https://ura.design/) and Collective68.
