@@ -5,8 +5,8 @@ layout: home
 
 My name is Redon Skikuli and I'm currently based in 41°19′44″N 19°49′04″E.
 
-I'm the co-founder of [Open Labs hackerspace](https://openlabs.cc) ( from 2012) and co-organiser of [Open Source Conference Albania](https://oscal.openlabs.cc), Wiki Weekend and CopyFest. 
+In 2012 I co-founded [Open Labs hackerspace](https://openlabs.cc) and started co-organising [Open Source Conference Albania](https://oscal.openlabs.cc), Wiki Weekend, CryptoPArty Tirana, CopyFest and other initiatives related to free open source software, online privacy and the commons in the digital age.
 
-I'm co-developing CityZen (an OSM-based city navigation mobile app) & [Identihub](https://identihub.co/) (open source visual assets hosting) in collaboration with really talented people that trust in a decetralised future. 
+The last couple of years I'm co-developing [CityZen](http://cityzenapp.co/), an OSM-based city navigation mobile app & [Identihub](https://identihub.co/) the the visual assets self-hosting platform, in collaboration with really talented people that trust in a decetralised future. 
 
 I pay my bills as a visual communication & free open source solutions consultant at [Ura Design](https://ura.design/) and Collective68.
