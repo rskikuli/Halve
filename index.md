@@ -11,4 +11,4 @@ The last couple of years I'm co-developing [CityZen](http://cityzenapp.co/), an 
 
 Currently I pay my bills as a visual communication & free open source solutions consultant at Collective68 & [Ura Design](https://ura.design/).
 
-Things I enjoy doing: spreading counterculture propaganda, engaging in Do It Together initiatives like [OpenStreetMap](https://www.openstreetmap.org/user/Leeturtle) and [Wikimedia](https://commons.wikimedia.org/wiki/Special:Contributions/Leeturtle) . Last but not least, I enjoy [eating cake](https://en.wikipedia.org/wiki/Let_them_eat_cake) while throwing [kung-fu kicks](https://youtu.be/wo2aUfwPQvs?t=41s) to [nazis](https://www.youtube.com/watch?v=SFM-9liNmrM).
+Things I enjoy doing: spreading counterculture propaganda while throwing [kung-fu kicks](https://youtu.be/wo2aUfwPQvs?t=41s) to [nazis](https://www.youtube.com/watch?v=SFM-9liNmrM).
