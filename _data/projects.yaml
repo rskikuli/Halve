@@ -5,22 +5,22 @@
 
 - title: CopyFest
   url: https://openlabs.cc/en/copyfest-2018-2/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: true
+  image: 
+  completed: false
 
 - title: Wiki Weekend Tirana
   url: https://meta.wikimedia.org/wiki/Wikipedia_Weekend_in_Tirana_2016
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: true
+  image: 
+  completed: false
 
 - title: CityZen
   url: http://cityzenapp.co/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: true
+  image: 
+  completed: false
 
 - title: Identihub
   url: https://identihub.co/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: 
   completed: false
 
 - title: CryptoParty Tirana
