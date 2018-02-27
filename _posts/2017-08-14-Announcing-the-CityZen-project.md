@@ -5,7 +5,7 @@ date:   2017-08-14
 excerpt: "Stylish, two-column Jekyll theme for your blog."
 tag:
 - CityZen
-- english
+- eng
 - blog
 ---
 
@@ -159,7 +159,3 @@ image: http://example.com/some-image.png
 Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Halve/issues/new). And if you make something cool with this theme feel free to let me know.
 
 ---
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
