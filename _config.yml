@@ -1,7 +1,6 @@
 .# Site
 title: redon.skikuli.com
-description: cyberhome of an open source guy
-English content (https://rskikuli.github.io/tags#eng) | Në shqip (https://rskikuli.github.io/tags#shqip)
+description: cyberhome of an open source guy. English content (https://rskikuli.github.io/tags#eng) | Në shqip (https://rskikuli.github.io/tags#shqip)
 url: https://taylantatli.github.io/Halve
 logo: redon.jpg                                       # Site logo
 locale: en_US
