@@ -375,6 +375,9 @@ canvas {
       &:nth-child(odd) {
         background: $green;
       }
+      &:nth-child(even) {
+        background: $green;
+      }
       &:last-child {
         margin-right: 0;
       }
