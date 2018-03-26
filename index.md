@@ -9,6 +9,6 @@ In 2012 I co-founded [Open Labs hackerspace](https://openlabs.cc) and started co
 
 The last couple of years I'm co-developing [CityZen](http://cityzenapp.co/), an OSM-based city navigation mobile app & [Identihub](https://identihub.co/) the visual assets self-hosting platform, in collaboration with really talented people that trust in a decetralised future.
 
-Currently I pay my bills as a visual communication & free open source solutions consultant at Collective68 & [Ura Design](https://ura.design/).
+Currently I pay my bills as a visual communication & free open source solutions consultant at [Collective68](http://collective68.tech/) & [Ura Design](https://ura.design/).
 
 Things I enjoy doing: spreading counterculture propaganda while throwing [kung-fu kicks](https://youtu.be/wo2aUfwPQvs?t=41s) to [nazis](https://www.youtube.com/watch?v=SFM-9liNmrM).
