@@ -1,6 +1,6 @@
 - title: Tirana Open Data Portal
   url: http://opendata.tirana.al/
-  image: /images/Projects_Screenshot_ opendata.tirana.al.png 
+  image: /images/opendata.png 
   completed: true
 
 - title: CopyFest
@@ -25,5 +25,5 @@
 
 - title: CryptoParty Tirana
   url: https://www.cryptoparty.in/tirana
-  image: /images/cryptoparty_tirana.png
+  image: /images/cryptoparty_tirana.jpg
   completed: true
