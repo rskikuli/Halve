@@ -11,7 +11,7 @@
 - title: Wiki Weekend Tirana
   url: https://meta.wikimedia.org/wiki/Wikipedia_Weekend_in_Tirana_2016
   image: /images/wiki_tirana_2016.jpg
-  completed: false
+  completed: true
 
 - title: CityZen
   url: http://cityzenapp.co/
