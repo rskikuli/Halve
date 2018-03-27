@@ -1,3 +1,7 @@
+---
+image: /images/posts.jpg
+---
+
 After announcing to the local hackerspace members first, I’d like to share the exciting news about the launch of CityZen app here at my blog as well. I used the word ‘exciting’ in purpose here since it is a project that I consider a great way to understand if an open source (important keyword) project that is not based in one of the ‘start-up silicon valley structured’ cities has a chance of becoming mainstream. Before presenting the project though I’d like to share some context.
 
 Today, city-navigation or Points Of Interest (POIs) apps are exactly what their name says: they are supposed to help you get around in the spots of the city you are at the moment. If you are like me, you probably like to find points of interest (POIs) easy in the city you are staying for a short or a long time. This becomes even more important when you are traveling, because you are probably searching for something very specific first. Your secondary need is to go from your location to that specific POI you are interested in. For example, if you are searching for a bank, you probably need the one that is closer to you and that is opened at a certain time right? After finding the bank that is opened at the time that is convenient to you you, will probably need to use a navigator to go there.
