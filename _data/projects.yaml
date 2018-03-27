@@ -1,29 +1,29 @@
 - title: Tirana Open Data Portal
   url: http://opendata.tirana.al/
-  image: /images/opendata.png 
+  image: images/opendata.png 
   completed: true
 
 - title: CopyFest
   url: https://openlabs.cc/en/copyfest-2018-2/
-  image: /images/copyfest_poster.png
+  image: images/copyfest_poster.png
   completed: true
 
 - title: Wiki Weekend Tirana
   url: https://meta.wikimedia.org/wiki/Wikipedia_Weekend_in_Tirana_2016
-  image: /images/wiki_tirana_2016.jpg
+  image: images/wiki_tirana_2016.jpg
   completed: true
 
 - title: CityZen
   url: http://cityzenapp.co/
-  image: /images/cityzen_app.png
-  completed: false
+  image: images/cityzen_app.png
+  completed: true
 
 - title: Identihub
   url: https://identihub.co/
-  image: /images/identihub.png
-  completed: false
+  image: images/identihub.png
+  completed: true
 
 - title: CryptoParty Tirana
   url: https://www.cryptoparty.in/tirana
-  image: /images/cryptoparty_tirana.jpg
+  image: images/cryptoparty_tirana.jpg
   completed: true
