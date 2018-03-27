@@ -1,161 +1,20 @@
----
-layout: post
-title:  Announcing the CityZen project
-date:   2017-08-14
-excerpt: "Stylish, two-column Jekyll theme for your blog."
-tag:
-- CityZen
-- eng
-- blog
----
+After announcing to the local hackerspace members first, I’d like to share the exciting news about the launch of CityZen app here at my blog as well. I used the word ‘exciting’ in purpose here since it is a project that I consider a great way to understand if an open source (important keyword) project that is not based in one of the ‘start-up silicon valley structured’ cities has a chance of becoming mainstream. Before presenting the project though I’d like to share some context.
+Today, city-navigation or Points Of Interest (POIs) apps are exactly what their name says: they are supposed to help you get around in the spots of the city you are at the moment. If you are like me, you probably like to find points of interest (POIs) easy in the city you are staying for a short or a long time. This becomes even more important when you are traveling, because you are probably searching for something very specific first. Your secondary need is to go from your location to that specific POI you are interested in. For example, if you are searching for a bank, you probably need the one that is closer to you and that is opened at a certain time right? After finding the bank that is opened at the time that is convenient to you you, will probably need to use a navigator to go there.
+Whenever I find myself in this scenario (this happens almost every-time I’m in a hotel, or live in a big city), I try to give a try to some alternatives out there that might help. Unfortunately, all the solutions I’ve tried so far incorporate one or more elements that make them a deal-breaker for any kind of usage from my side. For example, Google maps and Apple maps have a nice UX, but they are proved to not respect our privacy. Giving someone all my geo-data is not something on my agenda for quite some time now. There are also partially open source solutions such as OSMand and Maps.me, but they are either not user friendly or do not involve the community in their decision making in a satisfactory way. In addition, these apps usually focus on the navigation and not on searching for POIs as the main service they offer.
+These are some of the reasons I started thinking on a solution like CityZen app – an app that certainly avoided all the elements that could not be part of such initiative. With the research done during these past year and knowing the amazing achievements of the OpenStreetMap project, the design thinking behind the app was simple: it needs to be open source, privacy oriented, OpenStreetMap based and  a community driven project. So, after months of work and development CityZen alpha version is on the wild.
+As I mentioned before, CityZen is based on OpenStreetMap, the open data and open source collaborative map, and it has predefined categories such as transportation, touristic attractions, ATMs, restaurants, bars etc. You can also search for specific POIs of course and get guidance if you want to got from point A to point B. If you are an OpenStreeMap contributor you can easily edit or add POIs through CityZen. In case you have not created an OSM account you can even create one using CityZen.
 
-<a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  
+> Privacy on default
+The app has a special focus on privacy. This is why we don’t keep your location or any other personal data. Technically there is no server for keeping data from the app, which makes it impossible for the development team of the app to track you. This is what should be the standard for any app out there.
 
-<center><b>Halve</b> is a stylish, two-column jekyll theme.</center><br>
-     
- This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)). I couldn't stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.
+> Community first
+The app is now at an closed alpha version release and after the testing period with a limited number of open source and OpenStreetMaps enthusiasts from around the world the development ideally should go to the community.  The community will also have a crucial role in the decision making process of the project. If you want to get involved at this stage and be part of the project have a look at the Github repo https://github.com/CityZenApp. That is the place where you can add your proposals and improvements.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      
-## Installation and Quick Usage
-* Fork the [Halve repo](https://github.com/TaylanTatli/Halve/fork)
-* Edit `_config.yml` file.
-* Edit `index.md`.
-* Edit `_data/projects.yaml`
-* Add a logo with a small one to `images` folder. (eg. `logo.png`, `logo-small.png`)
-* Remove sample posts from `_posts` folder and add yours.
-* Remove/Change sample images from `images` folder.
-* Change repo name to `YourUserName.github.io`    
-     
-That's all.
+> Open source, of course
+The app is published under the Mozilla Public License 2.0 making it easy to everyone to get involved and improve the app.As mentioned before we have released the code on Github where  you can also file a bug.
 
-If you want to make a **Project Page**, you have to use `gh-pages` branch. For **Personal Page**; `master` branch. More info [here](https://help.github.com/articles/about-github-pages-and-jekyll/#jekylls-build-process).
+> Become an alpha version tester?
+The app is currently on alpha version for Android and things seem to work as expected, but there are many bugs and the only way to work on these and get ready for the beta version is to have as many people using this early version as possible. So, if you happen to have an Android phone (version 4.4 or higher) and want to be an early tester of the app please fill the form on the website and we will get back to you the soonest possible: www.cityzenapp.co.
 
-## Preview
-
-{% capture images %}
-	{{ site.url }}/images/halve-home-image.png
-	{{ site.url }}/images/post-image-halve-1.png
-	{{ site.url }}/images/post-image-halve-2.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Halve Theme" cols=3 %}
-
-{% capture images %}
-	{{ site.url }}/images/post-image-halve-3.png
-	{{ site.url }}/images/post-image-halve-6.png
-	{{ site.url }}/images/post-image-halve-4.png
-{% endcapture %}
-{% include gallery images=images caption="Mobile view of Halve Theme" cols=3 %}
-      
-See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.      
-
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
-
-### Site Wide Configuration
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
-
-#### title
-
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
-
-#### description
-
-The description to use for meta tags and homepage.
-
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
-
-Examples:
-
-{% highlight yaml %}
-url: http://taylantatli.me/Halve
-url: http://localhost:4000
-url: //cooldude.github.io
-url:
-{% endhighlight %}
-
-#### logo
-Your site's logo. It will be shown on homepage. Also used for twitter meta tags.
-
-#### background
-Here we will set images for left block. Example:
-
-```
-background:
-  homepage: images/home.png
-  post-list: images/unsplash-image-10.jpg
-  default-post: images/unsplash-gallery-image-3.jpg 
-```
-
-<dl>
-  <dt>homepage</dt>
-  <dd>Is for homepage background image.</dd>
-  <dt>post-list</dt>
-  <dd>Is for posts list page background image.</dd>
-  <dt>default-post</dt>
-  <dd>Is for posts' default background image. It will be shown for every posts that don't specify any image from post's YAML front matter.</dd>
-</dl>
-
----
-
-### Projects Overlay
-
-To set what image links appear in the overlay menu edit `_data/projects.yaml`. Use the following format to set the URL, title, image and project status for as many links as you'd like. If you set `completed` to `false` like `completed: false`, it won't be clickable until you set it true like `completed: true`
-
-{% highlight yaml %}
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-  completed: true
-
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
-  completed: true
-
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
-  completed: true
-
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
-
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
-{% endhighlight %}
-
----
-
-## Layouts and Content
-
-Halve Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
-
-### Images for Posts
-
-You can set left block image per post. Just add `image: some link` to your post's front matter. If you don't set this, default post image will be used from `_config.yml`.
-
-```
-image: /assets/img/some-image.png
-or
-image: http://example.com/some-image.png
-```    
- This also will be used for twitter card:
-
-![Halve Twitter Card]({{ site.url }}/images/post-image-halve-5.png)
-
----
-
-## Questions?
-
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Halve/issues/new). And if you make something cool with this theme feel free to let me know.
-
----
+> Updates from the project and other info
+Follow the Twitter account for the latest updates twitter.com/CityZenappco or send us an email at ping (at) cityzenapp.co for any questions you might have. I have no idea if this project will get traction out there (I really hope it does),  but in any case I’d like to thank Valdio, Renato, Alex, Klaidi, the folks at Open Labs hackerspace in Tirana, all the amazing people that agreed to work on the alpha testing and of course the amazing OpenStreetMap community. Now that the code is released in the internets it is up to the community to use, improve and share CityZen.
