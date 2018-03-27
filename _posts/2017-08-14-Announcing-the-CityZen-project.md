@@ -1,5 +1,5 @@
 ---
-image: /images/posts.jpg
+image: /images/cityzen_post.jpg
 ---
 
 After announcing to the local hackerspace members first, I’d like to share the exciting news about the launch of CityZen app here at my blog as well. I used the word ‘exciting’ in purpose here since it is a project that I consider a great way to understand if an open source (important keyword) project that is not based in one of the ‘start-up silicon valley structured’ cities has a chance of becoming mainstream. Before presenting the project though I’d like to share some context.
