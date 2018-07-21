@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Para Publike Kod Publik"
-image: "{{ site.url }}/images/post-image-para-publike-kod-publik.png"
 categories:
   - campaigns
 tags:
   - shqip
 ---
-
+<img src="{{ site.url }}/images/post-image-para-publike-kod-publik.png" alt="Imazhi i fushatës Para Publike Kod Publik">
 Shërbimet digjitale të ofruara dhe të përdorura nga administratat publike përbëjnë një infrastrukturë kritike të shteteve demokratike të shekullit të 21-të. Për të krijuar sisteme të besueshme, qeveritë duhet të sigurohen se ato kanë kontroll të plotë mbi sistemet e tyre në thelbin e infrastrukturës sonë digjitale. Kjo gjë ndodh rrallë sot për shkak të licencave softuerike kufizuese.
 
 Dhjetra organizata të rëndësishme botërore, ju bashkuan një fushate e cila nëpërmjet një letre të hapur kërkonte nga ligjvënësit kalimin e legjislacionit që kërkon që softueri i financuar nga paratë publike, i zhvilluar për sektorin publik, të vihet në dispozicion nën një licencë të Softuerit të Lirë dhe me Kod Burimi të Hapur. Nënshkrimet e para kane ardhur nga organizata si: CCC, EDRi, Free Software Foundation Europe, KDE, Open Knowledge Foundation Germany, openSUSE, Open Source Business Alliance, Open Source Initiative, The Document Foundation, Wikimedia Deutschland , si edhe shumë organizata dhe individë në Evropë. Këto organizata u kërkojnë si individëve ashtu edhe organizatave të tjera, që të nënshkruajnë këtë letër të hapur.
