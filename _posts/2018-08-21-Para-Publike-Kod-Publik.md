@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Para Publike Kod Publik"
-image: "http://redon.skikuli.com/images/post-image-para-publike-kod-publik.png"
+image: "{{ site.url }}/images/post-image-para-publike-kod-publik.png"
 categories:
   - campaigns
 tags:
