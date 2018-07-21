@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Para Publike Kod Publik"
+image: "../images/post-image-para-publike-kod-publik.png"
 categories:
   - campaigns
 tags:
