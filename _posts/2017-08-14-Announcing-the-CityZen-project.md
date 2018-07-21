@@ -1,5 +1,10 @@
 ---
-image: /images/cityzen_post.jpg
+layout: post
+title: "Announcing the CityZen project"
+categories:
+  - personal projects
+tags:
+  - english
 ---
 
 After [announcing to the local hackerspace](https://forum.openlabs.cc/t/introducing-cityzen-android-app/551) members first, I’d like to share the exciting news about the launch of [CityZen app](http://cityzenapp.co/) here at my blog as well. I used the word ‘exciting’ in purpose here since it is a project that I consider a great way to understand if an open source (important keyword) project that is not based in one of the ‘start-up Silicon Valley’ cities has a chance of becoming mainstream. Before presenting the project though I’d like to share some context.
