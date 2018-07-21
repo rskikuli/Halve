@@ -6,7 +6,7 @@ categories:
 tags:
   - shqip
 ---
-![alt]({{ site.url }}/images/post-image-para-publike-kod-publik.png)
+![Imazhi i fushatës Para Publike Kod Publik]({{ site.url }}/images/post-image-para-publike-kod-publik.png)
 
 Shërbimet digjitale të ofruara dhe të përdorura nga administratat publike përbëjnë një infrastrukturë kritike të shteteve demokratike të shekullit të 21-të. Për të krijuar sisteme të besueshme, qeveritë duhet të sigurohen se ato kanë kontroll të plotë mbi sistemet e tyre në thelbin e infrastrukturës sonë digjitale. Kjo gjë ndodh rrallë sot për shkak të licencave softuerike kufizuese.
 
