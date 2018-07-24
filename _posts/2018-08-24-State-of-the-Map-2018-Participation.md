@@ -3,7 +3,6 @@ layout: post
 title: "State of the Map 2018 Participation"
 categories:
   - conferences
-  - OpenStreetMap
 tags:
   - english
 ---
