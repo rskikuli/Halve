@@ -14,4 +14,4 @@ Currently I pay my bills as a visual communication & free open source solutions 
 Things I enjoy doing: spreading counterculture propaganda while throwing [kung-fu kicks](https://youtu.be/wo2aUfwPQvs?t=41s) to [nazis](https://www.youtube.com/watch?v=SFM-9liNmrM).
 
 
-###### _Unless otherwise noted all the content publoished here is dedicated to the [public domain](https://creativecommons.org/choose/zero/)._
+###### _Unless otherwise noted all the content published here is dedicated to the [public domain](https://creativecommons.org/choose/zero/)._
