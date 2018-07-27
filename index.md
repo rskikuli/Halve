@@ -12,7 +12,7 @@ The last couple of years I'm co-developing [CityZen](http://cityzenapp.co/), an 
 Currently I pay my bills as a member of [Collective68](http://collective68.tech/), a talented crew that deydreams of a decetralised reality.  We work on projects related to free open source software & hardware, open data, online privacy & security, open geoinformation and the digital public domain.  
 
 ##### Things I enjoy doing
-City-biking, growing my [record collection](https://www.youtube.com/watch?v=z3_swo25ctM), spreading counterculture propaganda while throwing [kung-fu kicks](https://youtu.be/wo2aUfwPQvs?t=41s) to [nazis](https://www.youtube.com/watch?v=SFM-9liNmrM).
+City-biking, growing my [record collection](https://www.youtube.com/watch?v=z3_swo25ctM) and spreading counterculture propaganda while throwing [kung-fu kicks](https://youtu.be/wo2aUfwPQvs?t=41s) to [nazis](https://www.youtube.com/watch?v=SFM-9liNmrM).
 
 ##### _Content (un)licensing_
 _Unless otherwise noted all the content published here is dedicated to the [public domain](https://creativecommons.org/choose/zero/)._
