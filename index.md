@@ -2,7 +2,7 @@
 layout: home
 ---
 ### Long Story Short
-My name is Redon Skikuli and I'm currently based in [41°19′44″N 19°49′04″E](https://osm.org/go/xexSP~s?m=).
+My name is Skikuli and I'm currently based in [41°19′44″N 19°49′04″E](https://osm.org/go/xexSP~s?m=).
 In 2012 I co-founded [Open Labs hackerspace](https://openlabs.cc) and started co-organizing [Open Source Conference Albania](https://oscal.openlabs.cc), Wiki Weekend, Wiki Loves Monuments, CryptoParty Tirana, CopyFest and other initiatives related to free open source culture. I'm a long time active OpenStreetMap, Wikipedia contributor and a [Mozilla Tech Speaker](https://wiki.mozilla.org/TechSpeakers).
 
 ##### Proud project amoungs others (ongoing)
