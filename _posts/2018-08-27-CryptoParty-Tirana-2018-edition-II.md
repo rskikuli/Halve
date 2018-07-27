@@ -6,7 +6,7 @@ categories:
 tags:
   - shqip
 ---
-![Vizuali kryesor i CryptoParty]({{ site.url }}/images//images/post-image-CryptoParty_Tirana_2017-main-visual.png)
+![Vizuali kryesor i CryptoParty]({{ https://www.cryptoparty.in/tirana }}/images/post-image-CryptoParty_Tirana_2017-main-visual.png)
 
 Pas organizimit me shumë entusiazëm të [edicionit të parë](https://openlabs.cc/cryptoparty-tirana-2017/) të CryptoParty Tirana, anëtarë të Open Labs hackerspace organizojmë edicionin e dytë të Cryptoparty në datën 20 tetor 2018. Më shumë detaje rreth vendodhjses dhe organizimit do publikohen së shpejti në [cryptoparty.in/tirana](https://www.cryptoparty.in/tirana). Deri atëherë [do dëgjoj këtë](https://www.youtube.com/watch?v=Z5mAZQXVtMI).
 
