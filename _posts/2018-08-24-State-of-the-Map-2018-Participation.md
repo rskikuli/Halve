@@ -12,13 +12,13 @@ The State of the Map ([SotM](https://2018.stateofthemap.org/)) conference is the
 This year, State of the Map 2018 is taking place from July 28th to 30th 2018 in Milan, Italy. Based on the program of the conference there will be plenty of breakout rooms throughout for discussions, code, documentation sprints, mapping and workshops and I'm looking forward to each one of them. 
 This is my first year of participating and I couldn't be morre excited to participate also as a speaker presenting CityZen, the OSM empowered Android app.
 
-# Updates
+### Updates
 I'll be updating this space almost daily before, during and after the conference so make sure to visit this page from time to time. 
 
-# Pictures 
+### Pictures 
 - https://www.flickr.com/photos/thomersch/sets/72157697903865771
 
-# Social media (Twitter)
+### Social media (Twitter)
 Comments related to the presence of CityZen project:
 - https://twitter.com/SidorelaUku/status/1023555398333292544
 - https://twitter.com/Nafie_Shehu/status/1023560634896707585
@@ -29,8 +29,8 @@ Comments related to the presence of CityZen project:
 - https://twitter.com/rskikuli/status/1023211431305650181 (with my friends John & Jonathan)
 - https://twitter.com/harry_wood/status/1023561345399185408 (feedback from Harry Wood)
 
-# Video
+### Video
 - closing ceremony [twitter.com/rskikuli/status/1023939813253238785](https://twitter.com/rskikuli/status/1023939813253238785)
 
-# My presentation
+### My presentation
 (will be published soon)
