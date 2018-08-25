@@ -53,6 +53,8 @@ github:             rskikuli
 #xmpp:              username@server.com
 #hackernews:        username
 #behance:           username
+#gitlab:            rskikuli
+
 
 # Gems
 gems:
