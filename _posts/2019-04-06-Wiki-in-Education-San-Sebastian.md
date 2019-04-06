@@ -22,4 +22,4 @@ I will be updating this post as the event progresses in the next days. In the me
 The official website of the conference can be found here: [meta.wikimedia.org/wiki/Wikimedia%2BEducation_Conference_2019](https://meta.wikimedia.org/wiki/Wikimedia%2BEducation_Conference_2019)
 
 ## Traveling to San Sebastian and opening ceremony
-[commons.wikimedia.org/wiki/Category:Wikipedia%2BEducation_Conference_2019_opening_ceremony](https://commons.wikimedia.org/wiki/Category:Wikipedia%2BEducation_Conference_2019_opening_ceremony)
+Photos from the opening ceremony can  be found here [commons.wikimedia.org/wiki/Category:Wikipedia%2BEducation_Conference_2019_opening_ceremony](https://commons.wikimedia.org/wiki/Category:Wikipedia%2BEducation_Conference_2019_opening_ceremony)
