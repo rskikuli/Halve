@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wikimedia an Education Conference 2019, Donostia-San Sebastian"
+title: "Wikimedia an Education Conference 2019"
 categories:
   - Wikimedia
 tags:
@@ -17,4 +17,4 @@ I am representing Wikimedia Community User Group in the event and will share our
 are already working in Albania.
 I will be updating this post as the event progresses in the next days. In the mean time here are some updates on Twitter:
 [twitter.com/search?q=%23EduWiki2019&src=tyah](https://twitter.com/search?q=%23EduWiki2019&src=tyah)
-The official website of the conference can be found here: [meta.wikimedia.org/wiki/Wikimedia%2BEducation_Conference_2019] (https://meta.wikimedia.org/wiki/Wikimedia%2BEducation_Conference_2019)
+The official website of the conference can be found here: [meta.wikimedia.org/wiki/Wikimedia%2BEducation_Conference_2019](https://meta.wikimedia.org/wiki/Wikimedia%2BEducation_Conference_2019)
