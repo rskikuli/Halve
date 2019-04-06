@@ -1,6 +1,5 @@
 This is the code and materials for redon.skikuli.com, the personal website of Redon Skikuli. 
 
-===
 This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 To learn how to install and use this theme check out the [installation guide](https://taylantatli.github.io/Halve/halve-theme/) for more information.
 
