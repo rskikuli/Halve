@@ -7,7 +7,7 @@ tags:
   - english
 ---
 
-I'm writting this blog post from Donostia-San Sebastian (Basque Country) where I am participating to Wikimedia+Education Conference in 
+I'm writting this blog post from [Donostia-San Sebastian (Basque Country)](https://www.wikidata.org/wiki/Q10313) where I am participating to Wikimedia+Education Conference in 
 Wikimedia Movement. Before sharing my experience there here is some cntext:
 ...user groups and affiliates are developing Education Programs elsewhere, teachers are using wikis (and not only Wikimedia) 
 as a teaching resource, students are using Wikipedia to complete their assignments... and are even doing
@@ -20,3 +20,6 @@ I will be updating this post as the event progresses in the next days. In the me
 [twitter.com/search?q=%23EduWiki2019&src=tyah](https://twitter.com/search?q=%23EduWiki2019&src=tyah)
 
 The official website of the conference can be found here: [meta.wikimedia.org/wiki/Wikimedia%2BEducation_Conference_2019](https://meta.wikimedia.org/wiki/Wikimedia%2BEducation_Conference_2019)
+
+# Traveling to San Sebastian and opening ceremony
+[commons.wikimedia.org/wiki/Category:Wikipedia%2BEducation_Conference_2019_opening_ceremony](https://commons.wikimedia.org/wiki/Category:Wikipedia%2BEducation_Conference_2019_opening_ceremony)
